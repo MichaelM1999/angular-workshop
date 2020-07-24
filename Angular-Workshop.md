@@ -1,6 +1,6 @@
-    Angular Workshop
+#Angular Workshop
 
-        by the end of the workshop everyone should have an understanding of how to create an angular enviornment,create components and utilize angular routing.
+###by the end of the workshop everyone should have an understanding of how to create an angular enviornment,create components and utilize angular routing.
 
 1. introductions (Name, where you're from, coding background)
 2. Angular intro (documentation)
