@@ -1,9 +1,12 @@
 # Angular Workshop
 
-#### by the end of the workshop everyone should have an understanding of how to    create an angular enviornment,create components and utilize angular routing.
+#### Goals 
+1. Create an Angular enviornment
+2. Create Components
+3. Utilize Angular Routing
 
-1. introductions (Name, where you're from, coding background)
-2. Angular intro (documentation)
+## Documentation
+[Docs](https://angular.io/docs)
 
 ## spin up enviornment using CLI
 1. ng new demo-app
